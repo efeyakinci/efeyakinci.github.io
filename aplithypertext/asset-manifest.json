@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/aplithypertext/static/css/main.d4147f16.chunk.css",
-    "main.js": "/aplithypertext/static/js/main.1289152a.chunk.js",
-    "main.js.map": "/aplithypertext/static/js/main.1289152a.chunk.js.map",
+    "main.js": "/aplithypertext/static/js/main.6cc2ceac.chunk.js",
+    "main.js.map": "/aplithypertext/static/js/main.6cc2ceac.chunk.js.map",
     "runtime-main.js": "/aplithypertext/static/js/runtime-main.4f1bfa5c.js",
     "runtime-main.js.map": "/aplithypertext/static/js/runtime-main.4f1bfa5c.js.map",
-    "static/js/2.4d58fc74.chunk.js": "/aplithypertext/static/js/2.4d58fc74.chunk.js",
-    "static/js/2.4d58fc74.chunk.js.map": "/aplithypertext/static/js/2.4d58fc74.chunk.js.map",
+    "static/js/2.4cff530e.chunk.js": "/aplithypertext/static/js/2.4cff530e.chunk.js",
+    "static/js/2.4cff530e.chunk.js.map": "/aplithypertext/static/js/2.4cff530e.chunk.js.map",
     "static/js/3.14976e40.chunk.js": "/aplithypertext/static/js/3.14976e40.chunk.js",
     "static/js/3.14976e40.chunk.js.map": "/aplithypertext/static/js/3.14976e40.chunk.js.map",
     "index.html": "/aplithypertext/index.html",
     "static/css/main.d4147f16.chunk.css.map": "/aplithypertext/static/css/main.d4147f16.chunk.css.map",
-    "static/js/2.4d58fc74.chunk.js.LICENSE.txt": "/aplithypertext/static/js/2.4d58fc74.chunk.js.LICENSE.txt",
+    "static/js/2.4cff530e.chunk.js.LICENSE.txt": "/aplithypertext/static/js/2.4cff530e.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/aplithypertext/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4f1bfa5c.js",
-    "static/js/2.4d58fc74.chunk.js",
+    "static/js/2.4cff530e.chunk.js",
     "static/css/main.d4147f16.chunk.css",
-    "static/js/main.1289152a.chunk.js"
+    "static/js/main.6cc2ceac.chunk.js"
   ]
 }
